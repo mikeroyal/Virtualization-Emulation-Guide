@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/139736405-f98ea7e6-899c-4140-ba16-efd8caa1d856.png">
   <br />
   Virtualization/Emulation Guide
 </h1>
@@ -9,38 +9,37 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/139736422-7a09000d-eef7-44d5-a632-162ea4f3cb53.png">
 <br />
 </p>
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/139736438-2808d4d3-7fed-4f9a-a2c6-41153afbdf2f.png">
 <br />
 </p>
 
 Virtualization Technology Under the Hood. Source: [NI](https://www.ni.com/white-paper/8709/en/)
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/139736445-9e9c14dd-f101-47b4-b830-9224ab30f1a7.png">
 <br />
 </p>
 
-Architecture of Para-Virtualization. Source:[ResearchGate](https://www.researchgate.net/figure/Architecture-of-Para-Virtualization_fig5_340601749)
+Architecture of Para-Virtualization. Source: [ResearchGate](https://www.researchgate.net/figure/Architecture-of-Para-Virtualization_fig5_340601749)
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/139736456-03e7eebb-b9e7-4b0a-8782-462cd80aba7b.png">
 <br />
 </p>
 
-Monolithic (VMware vSphere) and Microkernelized (Microsoft Hyper-V) Hypervisors. Source:[ResearchGate](https://www.researchgate.net/figure/Monolithic-and-microkernelized-hypervisors_fig3_335866538)
+Monolithic (VMware vSphere) and Microkernelized (Microsoft Hyper-V) Hypervisors. Source: [ResearchGate](https://www.researchgate.net/figure/Monolithic-and-microkernelized-hypervisors_fig3_335866538)
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/139736454-4e6b9ad9-9ffd-4661-8266-11db9e904ae7.png">
 <br />
 </p>
 
-Hypervisor-based vs Container-based Virtualization. Source:[ResearchGate](https://www.researchgate.net/figure/Hypervisor-based-vs-Container-based-Virtualization_fig2_320223370)
-
+Hypervisor-based vs Container-based Virtualization. Source: [ResearchGate](https://www.researchgate.net/figure/Hypervisor-based-vs-Container-based-Virtualization_fig2_320223370)
 
 # Table of Contents
 
