@@ -45,9 +45,9 @@ Hypervisor-based vs Container-based Virtualization. Source: [ResearchGate](https
 
 1. [Virtualization/Emulation Learning Resources](https://github.com/mikeroyal/Virtualization-Emulation-Guide#virtualizationemulation-learning-resources)
 
-2. [Virtualization Tools](https://github.com/mikeroyal/Virtualization-Emulation-Guide#virtualization)
+2. [Virtualization Tools](https://github.com/mikeroyal/Virtualization-Emulation-Guide#virtualization-tools)
 
-3. [Emulation Tools](https://github.com/mikeroyal/Virtualization-Emulation-Guide#emulation)
+3. [Emulation Tools](https://github.com/mikeroyal/Virtualization-Emulation-Guide#emulation-tools)
 
 4. [File systems & Storage](https://github.com/mikeroyal/Virtualization-Emulation-Guide#file-systems--storage)
 
@@ -79,7 +79,7 @@ Hypervisor-based vs Container-based Virtualization. Source: [ResearchGate](https
 
 18. [Swift Development](https://github.com/mikeroyal/Virtualization-Emulation-Guide#swift-development)
 
-# Virtualization/ Emulation Learning Resources
+# Virtualization/Emulation Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Virtualization-Emulation-Guide#table-of-contents)
 
 [Virtualization](https://azure.microsoft.com/en-us/overview/what-is-virtualization/) is a process that creates a simulated, or virtual, computing environment as opposed to a physical environment. Virtualization often includes computer-generated versions of hardware, operating systems, storage devices, and more. This allows organizations to partition a single physical computer or server into several virtual machines.
